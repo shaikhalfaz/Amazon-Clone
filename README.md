@@ -13,6 +13,6 @@ It's important to note that while the interface of the Amazon clone may closely 
 
 # Technologies Used
 
-HTML
+HTML,
 CSS
 
